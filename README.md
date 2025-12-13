@@ -19,17 +19,6 @@ flax=0.7.5
   <img src="figures/burgers_evolve.jpg" width="800">
 </p>
 
-### To cite our paper
-```
-@inproceedings{
-    chen2024teng,
-    title={{TENG}: Time-Evolving Natural Gradient for Solving {PDE}s With Deep Neural Nets Toward Machine Precision},
-    author={Zhuo Chen and Jacob McCarran and Esteban Vizcaino and Marin Soljacic and Di Luo},
-    booktitle={Forty-first International Conference on Machine Learning},
-    year={2024},
-    url={https://openreview.net/forum?id=v1I4zRAjMb}
-}
-```
 
 ### License
 ```text

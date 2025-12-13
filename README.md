@@ -1,4 +1,4 @@
-# TENG: Time-Evolving Natural Gradient for Solving PDEs With Deep Neural Nets Toward Machine Precision
+It is a followup experiment code with Dirichlet boundary from the TENG. which is TENG: Time-Evolving Natural Gradient for Solving PDEs With Deep Neural Nets Toward Machine Precision
 ICML 2024 accepted paper [TENG: Time-Evolving Natural Gradient for Solving PDEs With Deep Neural Nets Toward Machine Precision](https://arxiv.org/abs/2404.10771)
 
 This code has been tested to work on

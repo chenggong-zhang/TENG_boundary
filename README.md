@@ -1,5 +1,6 @@
-It is a followup experiment code with Dirichlet boundary from the TENG, which is Time-Evolving Natural Gradient for Solving PDEs With Deep Neural Nets Toward Machine Precision
+It is a followup experiment code (See the arxiv https://arxiv.org/abs/2512.15771 for full details.) with Dirichlet boundary from the TENG, which is Time-Evolving Natural Gradient for Solving PDEs With Deep Neural Nets Toward Machine Precision
 ICML 2024 accepted paper [TENG: Time-Evolving Natural Gradient for Solving PDEs With Deep Neural Nets Toward Machine Precision](https://arxiv.org/abs/2404.10771)
+
 
 This code has been tested to work on
 ```bash
